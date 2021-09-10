@@ -3,6 +3,12 @@
 using namespace std;
 
 // 4. Implement Default Constructor Implementation
+Item::Item()
+{
+  itemCode = 0;
+  
+}
+
 // 5. Implement Overloaded Constructor Implementation
 // 6. Implement Destructor (display "Destructor Called")
 
